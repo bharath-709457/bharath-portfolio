@@ -6,7 +6,6 @@ const projects = [
     description: "A responsive PayPal UI replica built using HTML, CSS, JavaScript, and Bootstrap. Focused on layout, responsiveness, and interaction simulation.",
     tech: [ "JavaScript", "Bootstrap", "HTML", "CSS"],
     github: "https://github.com/bharath-709457/Paypal_Project",
-    demo: ""
   },
   {
     title: "Weather Dashboard",
@@ -20,7 +19,7 @@ const projects = [
     description: "A full-stack task management platform with secure login using JWT, Spring Security, and role-based access control. Users can register, log in, create, edit, and manage tasks with a responsive React UI and a secure Spring Boot backend.",
     tech: ["React.js", "Spring Boot", "JWT", "Spring Security", "PostgreSQL", "REST API"],
     github: "https://github.com/bharath-709457/taskverse.git",
-    demo: ""
+    
   },
 
 
