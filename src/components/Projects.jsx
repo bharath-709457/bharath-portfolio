@@ -2,11 +2,11 @@ import React from 'react';
 
 const projects = [
   {
-    title: "Learning Management System",
-    description: "Built a React-based LMS to help students access materials, track progress, and submit assignments.",
-    tech: ["React", "HTML", "CSS"],
-    github: "https://github.com/yourusername/lms-project",
-    demo: "https://lms-app.vercel.app"
+    title: "Payal Demo project",
+    description: "A responsive PayPal UI replica built using HTML, CSS, JavaScript, and Bootstrap. Focused on layout, responsiveness, and interaction simulation.",
+    tech: [ "JavaScript", "Bootstrap", "HTML", "CSS"],
+    github: "https://github.com/bharath-709457/Paypal_Project",
+    demo: ""
   },
   {
     title: "Weather Dashboard",
@@ -14,7 +14,16 @@ const projects = [
     tech: ["React", "API", "Tailwind"],
     github: "https://github.com/yourusername/weather-app",
     demo: "https://weather-app.vercel.app"
-  }
+  },
+  {
+    title: "Taskverse - Task Management System",
+    description: "A full-stack task management platform with secure login using JWT, Spring Security, and role-based access control. Users can register, log in, create, edit, and manage tasks with a responsive React UI and a secure Spring Boot backend.",
+    tech: ["React.js", "Spring Boot", "JWT", "Spring Security", "PostgreSQL", "REST API"],
+    github: "https://github.com/bharath-709457/taskverse.git",
+    demo: ""
+  },
+
+
 ];
 
 const Projects = () => {
